@@ -86,12 +86,16 @@ def get_vectorstore():
         if not index_path.exists():
             raise RuntimeError(f"❌ Index directory not found: {index_path}")
 
+        try:
             _vectorstore = FAISS.load_local(
                 str(index_path),
-            get_embeddings(),
-            allow_dangerous_deserialization=True
-        )
-        print(f"✅ FAISS index loaded successfully with {_vectorstore.index.ntotal} documents")
+                get_embeddings(),
+                allow_dangerous_deserialization=True
+            )
+            print(f"✅ FAISS index loaded successfully with {_vectorstore.index.ntotal} documents")
+        except Exception as e:
+            print(f"⚠️ Warning: could not initialize FAISS index: {e}")
+            raise RuntimeError(f"Failed to load FAISS index: {e}")
     return _vectorstore
 
 

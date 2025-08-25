@@ -18,8 +18,8 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders import PyPDFLoader, TextLoader
 from langchain_community.vectorstores import FAISS
 from sentence_transformers import SentenceTransformer
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.schema import Document
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_core.documents import Document
 
 # Setup
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s: %(message)s")

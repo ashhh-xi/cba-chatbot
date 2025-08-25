@@ -52,18 +52,18 @@ cba-chatbot/
 ### Backend Setup
 
 1. **Navigate to backend directory:**
-   ```bash
+```bash
    cd cba-chatbot/backend
    ```
 
 2. **Create virtual environment:**
-   ```bash
+```bash
    python -m venv .venv
    source .venv/bin/activate  # On Windows: .venv\Scripts\activate
    ```
 
 3. **Install dependencies:**
-   ```bash
+```bash
    pip install -r requirements.txt
    ```
 
@@ -74,7 +74,7 @@ cba-chatbot/
    ```
 
 5. **Start the backend server:**
-   ```bash
+```bash
    python app/main.py
    ```
    The backend will run on `http://localhost:8000`
@@ -82,7 +82,7 @@ cba-chatbot/
 ### Frontend Setup
 
 1. **Navigate to frontend directory:**
-   ```bash
+```bash
    cd cba-chatbot/frontend
    ```
 
@@ -92,9 +92,9 @@ cba-chatbot/
    ```
 
 3. **Start the development server:**
-   ```bash
-   npm run dev
-   ```
+```bash
+npm run dev
+```
    The frontend will run on `http://localhost:3000`
 
 ## 🔧 Configuration
