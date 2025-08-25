@@ -1,0 +1,288 @@
+https://www.commbank.com.au/support/payments-services-availability.html?ei=CB-footer_PaymentServices
+
+Payment service availability - CommBank
+
+Skip to main content
+
+Skip to log on
+
+Skip to search
+
+Accessibility at CommBank
+
+Banking
+
+Home loans
+
+Insurance
+
+Investing & super
+
+Business
+
+Institutional
+
+CommBank Yello
+
+Log on
+
+NetBank log on
+
+CommBiz log on
+
+CommSec log on
+
+Banking
+
+Home loans
+
+Insurance
+
+Investing & super
+
+Business
+
+Institutional
+
+CommBank Yello
+
+Locate us
+
+Help & support
+
+CommBank Search. Dialog start.
+
+Search CommBank. Start typing…
+
+Popular searches
+
+Travel insurance
+
+Foreign exchange calculator
+
+Discharge/ Refinance authority form
+
+Activate a CommBank card
+
+Cardless cash
+
+Interest rates & fees
+
+Help & support
+
+Locate us
+
+Contact us
+
+                Support
+
+                 / 
+
+Payment service availability 
+
+Availability of Payments Services to Individuals and Businesses 
+
+Provided by CommBank
+*
+
+Selected services; Quarter 2, 2025
+
+Payment services
+
+Reporting type
+
+Withdraw/deposit cash at ATM
+
+Transact over-the-counter in a branch 
+
+Make card payments (cardholders)
+
+Accept card payments (businesses) 
+
+Access accounts using online banking (web browser or mobile device app)
+
+Make/receive account transfers – fast payments
+
+Make/receive account transfers – next business day
+
+Service availability %
+
+100.00
+
+100.00
+
+100.00
+
+100.00
+
+99.54
+
+100.00
+
+100.00
+
+Significant outages due to problems at CommBank (in hours:minutes)
+
+0:00
+
+0:00
+
+0:00
+
+0:00
+
+9:59
+
+0:00
+
+0:00
+
+Significant outages due to problems at system-wide infrastructure or natural disasters (in hours:minutes)
+
+0:00
+
+0:00
+
+0:00
+
+0:00
+
+0:00
+
+0:00
+
+0:00
+
+Description of services and metrics:
+
+Service availability %  
+=  The actual amount of time that the service is not experiencing a 
+significant 
+outage, as a proportion of the amount of time during which the service was planned to be available in the quarter. Planned available time excludes planned outages (e.g. for system maintenance).
+
+Significant outage
+ = Unplanned unavailability of a service that meets minimum thresholds for duration and the proportion of customers affected.
+
+System-wide infrastructures 
+= Includes payment systems provided by the RBA, card schemes and other central payment system infrastructure; electricity network; and provider of telecommunications network links to CommBank’s operating or data centres.
+
+Withdraw/deposit cash at ATM 
+=
+
+Ability to withdraw or deposit cash, and check account balance, at a CommBank-branded ATM. Excludes issues relating to the cardholder’s card.
+
+Transact over-the-counter at a branch 
+= Ability to withdraw or deposit cash, or initiate account transfers or make bill payments over-the-counter in a branch. Excludes the ability to draw and deposit cheques. Excludes Bank@Post outlets.
+
+Make card payments (cardholders) 
+=
+
+Ability to use a CommBank-branded debit, prepaid or credit card to make a payment either in-store, on a mobile device (e.g. through an app) or online. Outages exclude problems with the business’ payments acceptance device or payments provider, or a customer’s mobile device.
+
+Accept card payments (businesses) 
+= Ability of businesses using the payment services of CommBank to accept card payments, either at point-of-sale or online/in-app. Outages exclude problems with the cardholder’s bank or payment acceptance devices that are not provided by CommBank.
+
+Access accounts using online banking (web browser or mobile device app) 
+=  Ability to log in, transfer between own accounts at CommBank, initiate payments and/or view accurate and up to date account information. Excludes the ability to process payments, which is covered in ‘make/receive account transfers - fast payments’ and ‘make/receive account transfers - next business day’.
+
+Make/receive account transfers – fast payments
+ = Ability of CommBank to process fast bank account transfers. This includes account-to-account transfers (Pay Anyone) to a PayID, and other one-off or scheduled payments (for example, direct debits and payroll payments by businesses) made through NPP/Osko. Outages exclude the inability for customers to initiate transfers due to unavailability of web or app banking channels, or a branch.
+
+Make/receive account transfers – next business day 
+= Ability of CommBank to process bank account transfers, with funds becoming available to the recipient on the next business day or later. Includes account-to-account transfers (Pay Anyone) and scheduled payments (for example, direct debits, and payroll payments by businesses) not made as fast payments through NPP/Osko, and BPAY payments. Outages exclude the inability to initiate payments due to unavailability of web or app banking channels, or a branch.
+
+Quarterly reports - archive
+
+2025
+
+2025 Quarter 1
+
+2024
+
+2024 Quarter 4
+
+2024 Quarter 3
+
+2024 Quarter 2
+
+2024 Quarter 1
+
+2023
+
+2023 Quarter 4
+
+2023 Quarter 3
+
+2023 Quarter 2
+
+2023 Quarter 1
+
+2022
+
+2022 Quarter 4
+
+2022 Quarter 3
+
+2022 Quarter 2
+
+2022 Quarter 1
+
+2021
+
+2021 Quarter 4
+
+2021 Quarter 3
+
+Things you should know
+
+* For detailed information on the compilation of the disclosure data, see 
+RBA Reliability Disclosures (PDF)
+. 
+
+Back to top
+
+QUICK LINKS
+
+            Security & scams
+
+            Help & support
+
+            Financial assistance
+
+            Complaints & compliments
+
+            Payment services availability
+
+ABOUT US
+
+            About CommBank
+
+            Careers at CommBank
+
+            Sustainability
+
+            Newsroom
+
+            Investor centre
+
+IMPORTANT INFORMATION
+
+            Accessibility
+
+            Important documents
+
+            Banking Code of Practice
+
+            Cookies policy
+
+            Privacy statement
+
+CommBank acknowledges the 
+Traditional Owners
+ of the lands across Australia as the continuing custodians of Country and Culture. We pay our respect to First Nations peoples and their Elders, past and present.
+
+©
+2025
+ Commonwealth Bank of Australia ABN 48 123 123 124 AFSL and Australian credit licence 234945                   
+
+Commonwealth Bank
